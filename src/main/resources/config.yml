@@ -1,0 +1,34 @@
+Mensagens:
+  No_Perm: "&4[ExplosionPVP] Voce nao tem permissao para usar esse comando!"
+  Staff_Morte: "&4[ExplosionPVP] Por voce ser staff seus item foram limpado do chao!"
+ComandosBloqueados:
+    - /?
+    - /ver
+    - /version
+    - /about
+    - /pl
+    - /plugins
+    - /bukkit:?
+    - /bukkit:ver
+    - /bukkit:version
+    - /bukkit:about
+    - /bukkit:pl
+    - /bukkit:plugins
+    - /auth
+    - /authme
+    - /perm
+    - /legendchat
+    - /vipzero
+    - /essentials
+    - /groupmanager
+    - /worldedit
+    - /worldguard
+    - /vault
+    - /op
+    - /gamemode
+    - /mv
+    - /mcmmo
+    - /gm
+    - /cal
+    - /setspawn
+    - /manuadd

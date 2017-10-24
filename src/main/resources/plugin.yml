@@ -1,0 +1,4 @@
+name: ExplosionPVPUtils
+main: me.skelletonx.ExplosionPVPUtils.Main
+version: 0.0.1-SNAPSHOT
+softdepend: [ProtocolLib]
